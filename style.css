@@ -26,3 +26,11 @@ header > .interface{
     align-items: center;
     justify-content: space-between;
 }
+
+.menu-desktop u1 {
+    display: flex;
+    justify-content: space-between
+    list-style: none
+    padding: 0;
+    margin: 0; 
+}
