@@ -3,10 +3,11 @@
     margin: 0;
     padding: 0;
     box sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 body{
-    background-color: black;
+    background-color: #0D172B;
     height: 100vh; 
 
 }
@@ -27,10 +28,9 @@ header > .interface{
     justify-content: space-between;
 }
 
-.menu-desktop u1 {
-    display: flex;
-    justify-content: space-between
-    list-style: none
-    padding: 0;
-    margin: 0; 
-}
+
+
+
+
+
+
